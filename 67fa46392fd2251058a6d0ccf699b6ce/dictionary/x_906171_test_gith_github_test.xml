@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b9ab86fd2f56251058a6d0ccf699b6e4" label="Github Test" max_length="40" name="x_906171_test_gith_github_test" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Numbr" max_length="40" name="numbr" type="string"/>
+    </element>
+</database>
